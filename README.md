@@ -1,4 +1,4 @@
-This is a  AI ChatBot  which gives respoonse to your questions using AI . I have used  google colab notebook .
+This is a  AI ChatBot  which gives response to your questions using AI . I have used  google colab notebook .
 Framework  - pytorch . 
 Programming Language - python
 UI - CSS 
